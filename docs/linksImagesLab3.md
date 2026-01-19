@@ -1,0 +1,8 @@
+[Хи-хи-ха-ха](https://ru.pinterest.com/pin/607071224812999374/)
+[Сайт для днд](https://dnd.su/ "Открыть сайт dnd.su")
+[Steam](https://store.steampowered.com/?l=russian "Открыть Steam")
+![Еда](/img/014fd153e4d7898aad6a64f9ad06568d.png)
+![Еда](/img/50efede903bd483f6fc6f99942bb98a1.png)
+[Markdown](https://www.markdownguide.org/ "Перейти на официальный сайт")
+[GitHub](https://github.com/Nadont02)
+![Скрин задания](/img/separatorsCommitLab3.png)
